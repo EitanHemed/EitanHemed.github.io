@@ -26,7 +26,7 @@ social: true  # includes social icons at the bottom of the page
 I am a postdoctoral researcher in the Psychology department at the University of Haifa, interested in how humans learn 
 to move and control their motor actions. 
 
-I am fellow of the [Data Science Research Center](https://dsrc.haifa.ac.il) at the University of Haifa.  
+I am also a postdoctoral fellow of the [Data Science Research Center](https://dsrc.haifa.ac.il) at the University of Haifa.  
 
 
 
