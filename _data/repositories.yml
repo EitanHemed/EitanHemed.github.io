@@ -3,7 +3,9 @@
 
 
 github_repos:
+  - EitanHemed/pavlovia-survey-utils
   - EitanHemed/robusta
   - EitanHemed/automatically_controlled
   - EitanHemed/python-workshop-2023
+  - EitanHemed/agas
   - psychopy/psychopy

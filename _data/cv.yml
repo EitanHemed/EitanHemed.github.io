@@ -11,17 +11,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D (Department of Psychology)
+    - title: Ph.D, Direct track in Experimental Psychology
       institution: University of Haifa, Israel
       year: 2015-2022
-#      description:
-#        - Description 1.
-#        - Description 2.
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
-    - title: B.A (Department of Psychology)
+    - title: M.A, Direct Ph.D track in Experimental Psychology, Magna Cum-Laude
+      institution: University of Haifa, Israel
+      year: 2015-2017
+    - title: B.A (Department of Psychology), Magna Cum-Laude
       institution: University of Haifa, Israel
       year: 2008-2011
 #      description:
@@ -32,12 +28,18 @@
   type: time_table
   contents:
     - title: Postdoctoral Researcher
+      institution: Humboldt University of Berlin
+      year: 2024-2025
+      description: Using virtual reality and reinforcement learning to study observational learning of choice behavior.
+
+    - title: Postdoctoral Researcher
       institution: University of Haifa
-      year: 2023-now
+      year: 2023-2024
+      description: Studying the development of directed reaching in infants, using computer vision methods.
 
     - title: Teaching Associate \ Mentor
       institution: University of Haifa
-      year: 2021-now
+      year: 2021-2024
       description: Taught Python Programming and Machine Learning in multiple courses and workshops to graduate students and staff.
 
     - title: Lab Manager
@@ -59,12 +61,13 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/EitanHemed/robusta">robusta</a>
-      year: 2020-now
-      description: Statistical hypothesis testing in Python.
     - title: <a href="https://github.com/psychopy/psychopy">psychopy</a>
       year: 2021-now
       description: Contributing to the open-source project for building psychology experiments in Python and JavaScript.
+    - title: <a href="https://eitanhemed.github.io/repositories/">Multiple own projects</a>
+      year: 2020-now
+      description: <a href="https://eitanhemed.github.io/repositories/">See repositories</a>.
+
 
 - title: Honors and Awards
   type: time_table
